@@ -1,0 +1,2 @@
+patient,sample,lane,fastq_1,fastq_2
+P001,P001_N,L001,/data/fastq/P001_N_R1.fastq.gz,/data/fastq/P001_N_R2.fastq.gz
